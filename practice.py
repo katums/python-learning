@@ -6,4 +6,5 @@ print(type(name))
 
 is_learning_python = True
 print(is_learning_python, type(is_learning_python))
+print(isinstance(name, int))
 
