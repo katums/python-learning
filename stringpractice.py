@@ -1,8 +1,5 @@
-my_str = "Hello, world!"
+my_str1 = "Hi"
+my_str2 = "there!"
 
-print('Hello' in my_str)
-print("hello," in my_str)
-print("Hello," in my_str)
-print(len(my_str))
-print(my_str[12])
-print(my_str[-2])
+str1_plus_str2 = my_str1 + " " + my_str2
+print(str1_plus_str2)
