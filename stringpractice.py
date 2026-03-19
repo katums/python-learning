@@ -1,5 +1,8 @@
-my_str1 = "Hi"
-my_str2 = "there!"
+name = "Bob"
+age = 42
 
-str1_plus_str2 = my_str1 + " " + my_str2
-print(str1_plus_str2)
+name_plus_age = name # Start with the name
+name_plus_age += str(age) # Change the age to a string
+
+print(name_plus_age)
+
