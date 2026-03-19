@@ -8,3 +8,5 @@ num1 = 5
 num2 = 11
 
 print(f"The sum of {num1} and {num2} is {num1 + num2}.")
+print(name[0:2])
+print(name[:2])
