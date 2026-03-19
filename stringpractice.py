@@ -10,3 +10,10 @@ num2 = 11
 print(f"The sum of {num1} and {num2} is {num1 + num2}.")
 print(name[0:2])
 print(name[:2])
+print(name[2:])
+
+my_string = "Let's learn how to code in Python!"
+print(len(my_string))
+print(my_string[0:15:3])
+print(my_string[::-1])
+print(my_string[::-2])
